@@ -1,0 +1,23 @@
+{
+  "name": "automation_project_practice",
+  "version": "1.0.0",
+  "description": "Automation_project_practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanje1234/Automation_project_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wanje1234/Automation_project_practice/issues"
+  },
+  "homepage": "https://github.com/Wanje1234/Automation_project_practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
